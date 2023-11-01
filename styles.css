@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(111, 173, 164);
+   }
+   
+   .center-div {
+    border: 1px solid black;
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(75, 102, 220);
+   }
